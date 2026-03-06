@@ -1311,5 +1311,58 @@
     "InGameSkins": [],
     "InternalName": "Dahlia",
     "DisplayName": "The Dahlia"
+  },
+  {
+    "Keys": [
+      "Sparxie"
+    ],
+    "ReleaseDate": "2026-03-03T00:00:00",
+    "Image": "Characters/Sparxie.webp",
+    "Rarity": 5,
+    "Element": "Fire",
+    "Class": "Elation",
+    "Region": [
+      "Planarcadia"
+    ],
+    "ModFilesName": "Sparxie",
+    "InGameSkins": [],
+    "InternalName": "Sparxie",
+    "DisplayName": "Sparxie"
+  },
+  {
+    "Keys": [
+      "Ashveil"
+    ],
+    "ReleaseDate": "2026-07-01T00:00:00",
+    "Image": "Characters/ashveil.webp",
+    "Rarity": 5,
+    "Element": "Lightning",
+    "Class": "Hunt",
+    "Region": [
+      "Planarcadia"
+    ],
+    "ModFilesName": "Ashveil",
+    "InGameSkins": [],
+    "InternalName": "Ashveil",
+    "DisplayName": "Ashveil"
+  },
+  {
+    "Keys": [
+      "Yao_Guang",
+      "Yao-Guang",
+      "Yaoguang"
+    ],
+    "ReleaseDate": "2026-02-13T00:00:00",
+    "Image": "Characters/yaoguang.webp",
+    "Rarity": 5,
+    "Element": "Physical",
+    "Class": "Hunt",
+    "Region": [
+      "The Xianzhou Yaoqing"
+    ],
+    "ModFilesName": "YaoGuang",
+    "InGameSkins": [],
+    "InternalName": "YaoGuang",
+    "DisplayName": "Yao Guang"
   }
 ]
