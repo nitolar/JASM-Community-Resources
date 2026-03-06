@@ -1317,7 +1317,7 @@
       "Sparxie"
     ],
     "ReleaseDate": "2026-03-03T00:00:00",
-    "Image": "Characters/Sparxie.webp",
+    "Image": "Sparxie.webp",
     "Rarity": 5,
     "Element": "Fire",
     "Class": "Elation",
@@ -1334,7 +1334,7 @@
       "Ashveil"
     ],
     "ReleaseDate": "2026-07-01T00:00:00",
-    "Image": "Characters/ashveil.webp",
+    "Image": "ashveil.webp",
     "Rarity": 5,
     "Element": "Lightning",
     "Class": "Hunt",
@@ -1353,7 +1353,7 @@
       "Yaoguang"
     ],
     "ReleaseDate": "2026-02-13T00:00:00",
-    "Image": "Characters/yaoguang.webp",
+    "Image": "yaoguang.webp",
     "Rarity": 5,
     "Element": "Physical",
     "Class": "Hunt",
