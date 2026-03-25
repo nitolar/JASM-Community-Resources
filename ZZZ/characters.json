@@ -996,9 +996,27 @@
   },
   {
     "Keys": [
+      "NangongYu",
+      "Nangong Yu"
+    ],
+    "ReleaseDate": "2026-03-23T00:00:00",
+    "Image": "NangongYu.webp",
+    "Rarity": 5,
+    "Element": "Ether",
+    "Class": "Stun",
+    "Region": [
+      "AOD"
+    ],
+    "ModFilesName": "NangongYu",
+    "InGameSkins": [],
+    "InternalName": "NangongYu",
+    "DisplayName": "Nangong Yu"
+  },
+  {
+    "Keys": [
       "Cissia"
     ],
-    "ReleaseDate": "2026-06-01T00:00:00",
+    "ReleaseDate": "2026-04-15T00:00:00",
     "Image": "Cissia.webp",
     "Rarity": 5,
     "Element": "Electric",
