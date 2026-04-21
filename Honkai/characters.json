@@ -1364,5 +1364,40 @@
     "InGameSkins": [],
     "InternalName": "YaoGuang",
     "DisplayName": "Yao Guang"
+  },
+  {
+    "Keys": [
+      "Evanescia"
+    ],
+    "ReleaseDate": "2026-05-12T00:00:00",
+    "Image": "evanescia.webp",
+    "Rarity": 5,
+    "Element": "Physical",
+    "Class": "Elation",
+    "Region": [
+      "Planarcadia"
+    ],
+    "ModFilesName": "Evanescia",
+    "InGameSkins": [],
+    "InternalName": "Evanescia",
+    "DisplayName": "Evanescia"
+  },
+  {
+    "Keys": [
+      "SilverWolf999",
+      "Silver_Wolf_Lv999"
+    ],
+    "ReleaseDate": "2026-05-12T00:00:00",
+    "Image": "silverwolf999.webp",
+    "Rarity": 5,
+    "Element": "Imaginary",
+    "Class": "Elation",
+    "Region": [
+      "Punklorde"
+    ],
+    "ModFilesName": "SilverWolf999",
+    "InGameSkins": [],
+    "InternalName": "SilverWolf999",
+    "DisplayName": "Silver Wolf Lv 999"
   }
 ]
