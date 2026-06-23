@@ -1121,7 +1121,14 @@
       "Amphoreus"
     ],
     "ModFilesName": "Castorice",
-    "InGameSkins": [],
+    "InGameSkins": [
+      {
+        "ModFilesName": "CastoriceGossamerFlutter",
+        "Image": "Character_Skin_Castorice_Gossamer_Flutter.webp",
+        "InternalName": "CastoriceGossamerFlutter",
+        "DisplayName": "Castorice Gossamer Flutter"
+      }
+    ],
     "InternalName": "Castorice",
     "DisplayName": "Castorice"
   },
@@ -1369,7 +1376,7 @@
     "Keys": [
       "Evanescia"
     ],
-    "ReleaseDate": "2026-05-12T00:00:00",
+    "ReleaseDate": "2026-05-13T00:00:00",
     "Image": "evanescia.webp",
     "Rarity": 5,
     "Element": "Physical",
@@ -1385,9 +1392,9 @@
   {
     "Keys": [
       "SilverWolf999",
-      "Silver_Wolf_Lv999"
+      "Silver Wolf Lv999"
     ],
-    "ReleaseDate": "2026-05-12T00:00:00",
+    "ReleaseDate": "2026-04-22T00:00:00",
     "Image": "silverwolf999.webp",
     "Rarity": 5,
     "Element": "Imaginary",
@@ -1399,5 +1406,81 @@
     "InGameSkins": [],
     "InternalName": "SilverWolf999",
     "DisplayName": "Silver Wolf Lv 999"
+  },
+  {
+    "Keys": [
+      "Mortenax Blade",
+      "Mortenax-Blade",
+      "Mortenax",
+      "MortenaxBlade",
+      "Blade"
+    ],
+    "ReleaseDate": "2026-06-03T00:00:00",
+    "Image": "MortenaxBlade.webp",
+    "Rarity": 5,
+    "Element": "Fire",
+    "Class": "Nihility",
+    "Region": [
+      "The Xianzhou Luofu"
+    ],
+    "ModFilesName": "MortenaxBlade",
+    "InGameSkins": [],
+    "InternalName": "MortenaxBlade",
+    "DisplayName": "Mortenax Blade"
+  },
+  {
+    "Keys": [
+      "himeko nova",
+      "nova",
+      "himeko"
+    ],
+    "ReleaseDate": "2026-12-22T00:00:00",
+    "Image": "HimekoNova.webp",
+    "Rarity": 5,
+    "Element": "Fire",
+    "Class": "Erudition",
+    "Region": [
+      "Astral Express"
+    ],
+    "ModFilesName": "HimekoNova",
+    "InGameSkins": [],
+    "InternalName": "HimekoNova",
+    "DisplayName": "Himeko Nova"
+  },
+  {
+    "Keys": [
+      "Gilgamesh"
+    ],
+    "ReleaseDate": "2026-12-22T00:00:00",
+    "Image": "Gilgamesh.webp",
+    "Rarity": 5,
+    "Element": "Lightning",
+    "Class": "Destruction",
+    "Region": [
+      "Other"
+    ],
+    "ModFilesName": "Gilgamesh",
+    "InGameSkins": [],
+    "InternalName": "Gilgamesh",
+    "DisplayName": "Gilgamesh"
+  },
+  {
+    "Keys": [
+      "rin tohsaka",
+      "rin",
+      "tohsaka"
+    ],
+    "ReleaseDate": "2026-12-22T00:00:00",
+    "Image": "RinTohsaka.webp",
+    "Rarity": 5,
+    "Element": "Quantum",
+    "Class": "Erudition",
+    "Region": [
+      "Other"
+    ],
+    "ModFilesName": "RinTohsaka",
+    "InGameSkins": [],
+    "InternalName": "RinTohsaka",
+    "DisplayName": "Rin Tohsaka"
   }
 ]

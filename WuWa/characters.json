@@ -12,7 +12,14 @@
       "Outlander"
     ],
     "ModFilesName": "rover",
-    "InGameSkins": [],
+    "InGameSkins": [
+      {
+        "ModFilesName": "RoverSkinStudent",
+        "Image": "Perpetual_Spark.webp",
+        "InternalName": "Perpetual_Spark",
+        "DisplayName": "Perpetual Spark"
+      }
+    ],
     "InternalName": "Rover",
     "DisplayName": "Rover"
   },
@@ -761,7 +768,14 @@
       "Lahai"
     ],
     "ModFilesName": "Mornye",
-    "InGameSkins": [],
+    "InGameSkins": [
+      {
+        "ModFilesName": "PlushDream",
+        "Image": "Plush_Dream.webp",
+        "InternalName": "PlushDream",
+        "DisplayName": "Plush Dream"
+      }
+    ],
     "InternalName": "Mornye",
     "DisplayName": "Mornye"
   },
@@ -786,11 +800,11 @@
     "Keys": [
       "Sigrika"
     ],
-    "ReleaseDate": "2026-12-11T00:00:00",
+    "ReleaseDate": "2026-03-19T00:00:00",
     "Image": "Sigrika.webp",
     "Rarity": 5,
-    "Element": "Electro",
-    "Class": "Rectifier",
+    "Element": "Aero",
+    "Class": "Gauntlets",
     "Region": [
       "Lahai"
     ],
@@ -804,11 +818,11 @@
       "Luuk",
       "Herssen"
     ],
-    "ReleaseDate": "2026-12-11T00:00:00",
+    "ReleaseDate": "2026-02-26T00:00:00",
     "Image": "Luuk.webp",
     "Rarity": 5,
-    "Element": "Electro",
-    "Class": "Rectifier",
+    "Element": "Spectro",
+    "Class": "Gauntlets",
     "Region": [
       "Lahai"
     ],
@@ -821,10 +835,10 @@
     "Keys": [
       "Lucilla"
     ],
-    "ReleaseDate": "2026-12-11T00:00:00",
+    "ReleaseDate": "2026-06-13T00:00:00",
     "Image": "Lucilla.webp",
     "Rarity": 5,
-    "Element": "Electro",
+    "Element": "Glacio",
     "Class": "Rectifier",
     "Region": [
       "Lahai"
@@ -867,5 +881,39 @@
     "InGameSkins": [],
     "InternalName": "Denia",
     "DisplayName": "Denia"
+  },
+  {
+    "Keys": [
+      "Lucy"
+    ],
+    "ReleaseDate": "2026-06-08T00:00:00",
+    "Image": "lucy.webp",
+    "Rarity": 5,
+    "Element": "Spectro",
+    "Class": "Pistols",
+    "Region": [
+      "Lahai"
+    ],
+    "ModFilesName": "Lucy",
+    "InGameSkins": [],
+    "InternalName": "Lucy",
+    "DisplayName": "Lucy"
+  },
+  {
+    "Keys": [
+      "Rebecca"
+    ],
+    "ReleaseDate": "2026-06-08T00:00:00",
+    "Image": "rebecca.webp",
+    "Rarity": 5,
+    "Element": "Electro",
+    "Class": "Pistols",
+    "Region": [
+      "Lahai"
+    ],
+    "ModFilesName": "Rebecca",
+    "InGameSkins": [],
+    "InternalName": "Rebecca",
+    "DisplayName": "Rebecca"
   }
 ]
