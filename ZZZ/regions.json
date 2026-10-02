@@ -58,5 +58,17 @@
     {
       "InternalName": "ESD",
       "DisplayName": "External Strategy Department"
+    },
+    {
+      "InternalName": "CovenantOfDayat",
+      "DisplayName": "Covenant of Dayat"
+    },
+    {
+      "InternalName": "APD",
+      "DisplayName": "Airspace Patrol Department"
+    },
+    {
+      "InternalName": "Flint",
+      "DisplayName": "Flint Works"
     }
 ]

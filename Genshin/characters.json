@@ -204,7 +204,14 @@
       "Fontaine"
     ],
     "ModFilesName": "Charlotte",
-    "InGameSkins": [],
+    "InGameSkins": [
+      {
+        "ModFilesName": "CharlotteHurlockVariations",
+        "Image": "CharlotteHurlockVariations.webp",
+        "InternalName": "Charlotte Hurlock Variations",
+        "DisplayName": "Hurlock Variations"
+      }
+    ],
     "InternalName": "Charlotte",
     "DisplayName": "Charlotte"
   },
@@ -1233,6 +1240,12 @@
         "Image": "LumineAsHeavenAndEarthAreMadeAnew.webp",
         "InternalName": "Lumine As Heaven and Earth Are Made Anew",
         "DisplayName": "As Heaven and Earth Are Made Anew"
+      },
+      {
+        "ModFilesName": "LumineGun",
+        "Image": "LumineNightHuntInSnow.webp",
+        "InternalName": "Lumine Night Hunt in Snow",
+        "DisplayName": "Night Hunt in Snow"
       }
     ],
     "InternalName": "Traveler (Female)",
@@ -1258,6 +1271,12 @@
         "Image": "AetherAsHeavenAndEarthAreMadeAnew.webp",
         "InternalName": "Aether As Heaven and Earth Are Made Anew",
         "DisplayName": "As Heaven and Earth Are Made Anew"
+      },
+      {
+        "ModFilesName": "AetherGun",
+        "Image": "AetherNightHuntInSnow.webp",
+        "InternalName": "Aether Night Hunt in Snow",
+        "DisplayName": "Night Hunt in Snow"
       }
     ],
     "InternalName": "Traveler (Male)",
@@ -1801,7 +1820,14 @@
       "Natlan"
     ],
     "ModFilesName": "Citlali",
-    "InGameSkins": [],
+    "InGameSkins": [
+      {
+        "ModFilesName": "CitlaliWhispersOfStarsAndSmoke",
+        "Image": "CitlaliWhispersOfStarsAndSmoke.webp",
+        "InternalName": "Citlali Whispers of Stars and Smoke",
+        "DisplayName": "Whispers of Stars and Smoke"
+      }
+    ],
     "InternalName": "Citlali",
     "DisplayName": "Citlali"
   },
@@ -2235,5 +2261,90 @@
     "InGameSkins": [],
     "InternalName": "Prune",
     "DisplayName": "Prune"
+  },
+  {
+    "Keys": [
+      "sandrone"
+    ],
+    "ReleaseDate": "2026-07-01T00:00:00",
+    "Image": "Sandrone.webp",
+    "Rarity": 5,
+    "Element": "Cryo",
+    "Class": "Claymore",
+    "Region": [
+      "Snezhnaya"
+    ],
+    "ModFilesName": "Sandrone",
+    "InGameSkins": [],
+    "InternalName": "Sandrone",
+    "DisplayName": "Sandrone"
+  },
+  {
+    "Keys": [
+      "Odette"
+    ],
+    "ReleaseDate": "2026-08-12T00:00:00",
+    "Image": "Odette.webp",
+    "Rarity": 5,
+    "Element": "Cryo",
+    "Class": "Sword",
+    "Region": [
+      "Snezhnaya"
+    ],
+    "ModFilesName": "Odette",
+    "InGameSkins": [],
+    "InternalName": "Odette",
+    "DisplayName": "Odette"
+  },
+  {
+    "Keys": [
+      "Alyosha"
+    ],
+    "ReleaseDate": "2026-08-12T00:00:00",
+    "Image": "Alyosha.webp",
+    "Rarity": 4,
+    "Element": "Electro",
+    "Class": "Polearm",
+    "Region": [
+      "Snezhnaya"
+    ],
+    "ModFilesName": "Alyosha",
+    "InGameSkins": [],
+    "InternalName": "Alyosha",
+    "DisplayName": "Alyosha"
+  },
+  {
+    "Keys": [
+      "Vesna"
+    ],
+    "ReleaseDate": "2026-09-23T00:00:00",
+    "Image": "Vesna.webp",
+    "Rarity": 5,
+    "Element": "Anemo",
+    "Class": "Sword",
+    "Region": [
+      "Snezhnaya"
+    ],
+    "ModFilesName": "Vesna",
+    "InGameSkins": [],
+    "InternalName": "Vesna",
+    "DisplayName": "Vesna"
+  },
+  {
+    "Keys": [
+      "Vodyanitsa"
+    ],
+    "ReleaseDate": "2026-10-14T00:00:00",
+    "Image": "Vodyanitsa.webp",
+    "Rarity": 5,
+    "Element": "Hydro",
+    "Class": "Catalyst",
+    "Region": [
+      "Snezhnaya"
+    ],
+    "ModFilesName": "Vodyanitsa",
+    "InGameSkins": [],
+    "InternalName": "Vodyanitsa",
+    "DisplayName": "Vodyanitsa"
   }
 ]

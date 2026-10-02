@@ -694,7 +694,9 @@
   },
   {
     "Keys": [
-      "ruanmei"
+      "ruan mei",
+      "ruan",
+      "mei"
     ],
     "ReleaseDate": "2023-12-27T00:00:00",
     "Image": "ruanmei.png",
@@ -705,7 +707,14 @@
       "Herta Space Station"
     ],
     "ModFilesName": "RuanMei",
-    "InGameSkins": [],
+    "InGameSkins": [
+      {
+        "ModFilesName": "RuanMeiPlumblossomLetter",
+        "Image": "Plumblossom_Letter.webp",
+        "InternalName": "RuanMeiPlumblossomLetter",
+        "DisplayName": "Ruan MeiPlumblossom Letter"
+      }
+    ],
     "InternalName": "RuanMei",
     "DisplayName": "Ruan Mei"
   },
@@ -1162,7 +1171,14 @@
       "Amphoreus"
     ],
     "ModFilesName": "Hyacine",
-    "InGameSkins": [],
+    "InGameSkins": [
+      {
+        "ModFilesName": "HyacineWarmCottonSkies",
+        "Image": "Warm_Cotton_Skies.webp",
+        "InternalName": "HyacineWarmCottonSkies",
+        "DisplayName": "Hyacine Warm Cotton Skies"
+      }
+    ],
     "InternalName": "Hyacine",
     "DisplayName": "Hyacine"
   },
@@ -1332,7 +1348,14 @@
       "Planarcadia"
     ],
     "ModFilesName": "Sparxie",
-    "InGameSkins": [],
+    "InGameSkins": [
+      {
+        "ModFilesName": "SparxieCandyCoatedWaves",
+        "Image": "Candy-Coated_Waves.webp",
+        "InternalName": "SparxieCandyCoatedWaves",
+        "DisplayName": "Sparxie Candy Coated Waves"
+      }
+    ],
     "InternalName": "Sparxie",
     "DisplayName": "Sparxie"
   },
@@ -1385,7 +1408,14 @@
       "Planarcadia"
     ],
     "ModFilesName": "Evanescia",
-    "InGameSkins": [],
+    "InGameSkins": [
+      {
+        "ModFilesName": "EvanesciaLunarBlossoming",
+        "Image": "Lunar_Blossoming.webp",
+        "InternalName": "EvanesciaLunarBlossoming",
+        "DisplayName": "Evanescia Lunar Blossoming"
+      }
+    ],
     "InternalName": "Evanescia",
     "DisplayName": "Evanescia"
   },
@@ -1430,9 +1460,9 @@
   },
   {
     "Keys": [
-      "himeko nova",
-      "nova",
-      "himeko"
+      "Himeko Nova",
+      "Nova",
+      "Himeko"
     ],
     "ReleaseDate": "2026-12-22T00:00:00",
     "Image": "HimekoNova.webp",
@@ -1482,5 +1512,79 @@
     "InGameSkins": [],
     "InternalName": "RinTohsaka",
     "DisplayName": "Rin Tohsaka"
+  },
+  {
+    "Keys": [
+      "Robin Summeretto",
+      "Robin",
+      "Summeretto"
+    ],
+    "ReleaseDate": "2026-08-26T00:00:00",
+    "Image": "RobinSummeretto.webp",
+    "Rarity": 5,
+    "Element": "Wind",
+    "Class": "Remembrance",
+    "Region": [
+      "Penacony"
+    ],
+    "ModFilesName": "RobinSummeretto",
+    "InGameSkins": [],
+    "InternalName": "RobinSummeretto",
+    "DisplayName": "Robin • Summeretto"
+  },
+  {
+    "Keys": [
+      "Aventurine Waveflair",
+      "Aventurine",
+      "Waveflair"
+    ],
+    "ReleaseDate": "2026-09-16T00:00:00",
+    "Image": "AventurineWaveflair.webp",
+    "Rarity": 5,
+    "Element": "Quantum",
+    "Class": "Elation",
+    "Region": [
+      "IPC"
+    ],
+    "ModFilesName": "AventurineWaveflair",
+    "InGameSkins": [],
+    "InternalName": "AventurineWaveflair",
+    "DisplayName": "Aventurine • Waveflair"
+  },
+  {
+    "Keys": [
+      "Pearl"
+    ],
+    "ReleaseDate": "2026-09-28T00:00:00",
+    "Image": "pearl.png",
+    "Rarity": 5,
+    "Element": "Ice",
+    "Class": "Preservation",
+    "Region": [
+      "Planarcadia"
+    ],
+    "ModFilesName": "Pearl",
+    "InGameSkins": [],
+    "InternalName": "Pearl",
+    "DisplayName": "Pearl"
+  },
+  {
+    "Keys": [
+      "Aeon Aha",
+      "Aha",
+      "Aeon"
+    ],
+    "ReleaseDate": "2026-09-28T00:00:00",
+    "Image": "aha.png",
+    "Rarity": 5,
+    "Element": "Quantum",
+    "Class": "Elation",
+    "Region": [
+      "Planarcadia"
+    ],
+    "ModFilesName": "Aha",
+    "InGameSkins": [],
+    "InternalName": "Aha",
+    "DisplayName": "Aeon ★ Aha"
   }
 ]

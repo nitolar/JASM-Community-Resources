@@ -734,7 +734,14 @@
       "Ashinohara"
     ],
     "ModFilesName": "Chisa",
-    "InGameSkins": [],
+    "InGameSkins": [
+      {
+        "ModFilesName": "ChisaPeachParfait",
+        "Image": "Peach_Parfait.webp",
+        "InternalName": "PeachParfait",
+        "DisplayName": "Peach Parfait"
+      }
+    ],
     "InternalName": "Chisa",
     "DisplayName": "Chisa"
   },
@@ -792,7 +799,14 @@
       "Lahai"
     ],
     "ModFilesName": "Lynae",
-    "InGameSkins": [],
+    "InGameSkins": [
+      {
+        "ModFilesName": "LynaePeppermint",
+        "Image": "Peppermint.webp",
+        "InternalName": "Peppermint",
+        "DisplayName": "Peppermint"
+      }
+    ],
     "InternalName": "Lynae",
     "DisplayName": "Lynae"
   },
@@ -915,5 +929,109 @@
     "InGameSkins": [],
     "InternalName": "Rebecca",
     "DisplayName": "Rebecca"
+  },
+  {
+    "Keys": [
+      "yangyang xuanling",
+      "yangyang",
+      "xuanling"
+    ],
+    "ReleaseDate": "2026-07-10T00:00:00",
+    "Image": "YangyangXuanling.webp",
+    "Rarity": 5,
+    "Element": "Havoc",
+    "Class": "Sword",
+    "Region": [
+      "Huanglong"
+    ],
+    "ModFilesName": "YangyangXuanling",
+    "InGameSkins": [],
+    "InternalName": "YangyangXuanling",
+    "DisplayName": "Yangyang: Xuanling"
+  },
+  {
+    "Keys": [
+      "Suisui"
+    ],
+    "ReleaseDate": "2026-07-30T00:00:00",
+    "Image": "Suisui.webp",
+    "Rarity": 5,
+    "Element": "Glacio",
+    "Class": "Rectifier",
+    "Region": [
+      "Huanglong"
+    ],
+    "ModFilesName": "Suisui",
+    "InGameSkins": [],
+    "InternalName": "Suisui",
+    "DisplayName": "Suisui"
+  },
+  {
+    "Keys": [
+      "Qingxiao"
+    ],
+    "ReleaseDate": "2026-08-20T00:00:00",
+    "Image": "Qingxiao.webp",
+    "Rarity": 5,
+    "Element": "Aero",
+    "Class": "Sword",
+    "Region": [
+      "Huanglong"
+    ],
+    "ModFilesName": "Qingxiao",
+    "InGameSkins": [],
+    "InternalName": "Qingxiao",
+    "DisplayName": "Qingxiao"
+  },
+  {
+    "Keys": [
+      "Jingran"
+    ],
+    "ReleaseDate": "2026-09-10T00:00:00",
+    "Image": "Jingran.webp",
+    "Rarity": 5,
+    "Element": "Fusion",
+    "Class": "Broadblade",
+    "Region": [
+      "Huanglong"
+    ],
+    "ModFilesName": "Jingran",
+    "InGameSkins": [],
+    "InternalName": "Jingran",
+    "DisplayName": "Jingran"
+  },
+  {
+    "Keys": [
+      "Hsin"
+    ],
+    "ReleaseDate": "2026-09-30T00:00:00",
+    "Image": "Hsin.webp",
+    "Rarity": 5,
+    "Element": "Electro",
+    "Class": "Rectifier",
+    "Region": [
+      "Huanglong"
+    ],
+    "ModFilesName": "Hsin",
+    "InGameSkins": [],
+    "InternalName": "Hsin",
+    "DisplayName": "Hsin"
+  },
+  {
+    "Keys": [
+      "Suoming"
+    ],
+    "ReleaseDate": "2026-09-30T00:00:00",
+    "Image": "Suoming.webp",
+    "Rarity": 5,
+    "Element": "Havoc",
+    "Class": "Rectifier",
+    "Region": [
+      "Huanglong"
+    ],
+    "ModFilesName": "Suoming",
+    "InGameSkins": [],
+    "InternalName": "Suoming",
+    "DisplayName": "Suoming"
   }
 ]

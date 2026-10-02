@@ -15,7 +15,7 @@
     "InGameSkins": [
       {
         "ModFilesName": "BelleDelicateSunlight",
-        "Image": "BelleDelicateSunlight.png",
+        "Image": "BelleDelicateSunlight.webp",
         "InternalName": "BelleDelicateSunlight",
         "DisplayName": "Belle Delicate Sunlight"
       },
@@ -27,7 +27,7 @@
       },
       {
         "ModFilesName": "BelleStars",
-        "Image": "BelleBrillianceOfStars.png",
+        "Image": "BelleBrillianceOfStars.webp",
         "InternalName": "BelleBrillianceOfStars",
         "DisplayName": "Belle Brilliance of Stars"
       }
@@ -51,7 +51,7 @@
     "InGameSkins": [
       {
         "ModFilesName": "WiseSoaringCrane",
-        "Image": "WiseSoaringCrane.png",
+        "Image": "WiseSoaringCrane.webp",
         "InternalName": "WiseSoaringCrane",
         "DisplayName": "Wise Soaring Crane"
       },
@@ -315,7 +315,14 @@
       "Calydon"
     ],
     "ModFilesName": "Lucy",
-    "InGameSkins": [],
+    "InGameSkins": [
+      {
+        "ModFilesName": "LucyPrincessOnHoliday",
+        "Image": "LucyPrincessOnHoliday.webp",
+        "InternalName": "Princess on Holiday",
+        "DisplayName": "Lucy Princess on Holiday"
+      }
+    ],
     "InternalName": "Lucy",
     "DisplayName": "Lucy"
   },
@@ -393,7 +400,7 @@
     "InGameSkins": [
       {
         "ModFilesName": "MiyabiSkin",
-        "Image": "MiyabiDignifiedBlossom.png",
+        "Image": "MiyabiDignifiedBlossom.webp",
         "InternalName": "MiyabiDignifiedBlossom",
         "DisplayName": "Miyabi Dignified Blossom"
       }
@@ -702,9 +709,9 @@
     "InGameSkins": [
       {
         "ModFilesName": "YixuanTrailsofInk",
-        "Image": "YixuanTrailsofInk.png",
+        "Image": "YixuanTrailsofInk.webp",
         "InternalName": "YixuanTrailsofInk",
-        "DisplayName": "YixuanTrailsofInkr"
+        "DisplayName": "Yixuan Trails of Ink"
       }
     ],
     "InternalName": "Yixuan",
@@ -712,7 +719,8 @@
   },
   {
     "Keys": [
-      "Panyinhu"
+      "Pan Yinhu",
+      "Yinhu"
     ],
     "ReleaseDate": "2025-06-06T00:00:00",
     "Image": "PanYinhu.png",
@@ -723,7 +731,14 @@
       "YSummit"
     ],
     "ModFilesName": "PanYinhu",
-    "InGameSkins": [],
+    "InGameSkins": [
+      {
+        "ModFilesName": "YinhuCulinaryJewel",
+        "Image": "YinhuCulinaryJewel.png",
+        "InternalName": "YinhuCulinaryJewel",
+        "DisplayName": "Yinhu Culinary Jewel"
+      }
+    ],
     "InternalName": "Panyinhu",
     "DisplayName": "Pan Yinhu"
   },
@@ -981,9 +996,15 @@
     "InGameSkins": [
       {
         "ModFilesName": "SunnaSkin",
-        "Image": "SunnaAfternoonTeaBreak.png",
+        "Image": "SunnaAfternoonTeaBreak.webp",
         "InternalName": "Sunna Afternoon Tea Break",
         "DisplayName": "Sunna Afternoon Tea Break"
+      },
+      {
+        "ModFilesName": "SunnaKFC",
+        "Image": "SunnaDelusionsInBusiness.webp",
+        "InternalName": "Sunna Delusions in Business",
+        "DisplayName": "Sunna Delusions in Business"
       }
     ],
     "InternalName": "Sunna",
@@ -1005,9 +1026,15 @@
     "InGameSkins": [
       {
         "ModFilesName": "AriaSkin",
-        "Image": "AriaDiscordantNote.png",
+        "Image": "AriaDiscordantNote.webp",
         "InternalName": "Aria Discordant Note",
         "DisplayName": "Aria Discordant Note"
+      },
+      {
+        "ModFilesName": "AriaKFC",
+        "Image": "AriaCutenessLoading.webp",
+        "InternalName": "Aria Cuteness Loading",
+        "DisplayName": "Aria Cuteness Loading"
       }
     ],
     "InternalName": "Aria",
@@ -1033,6 +1060,12 @@
         "Image": "NangongYuRhapsodysMuse.webp",
         "InternalName": "Nangong Yu Rhapsody's Muse",
         "DisplayName": "Nangong Yu Rhapsody's Muse"
+      },
+      {
+        "ModFilesName": "NangongYuKFC",
+        "Image": "NangongYuHeartfeltSupport.webp",
+        "InternalName": "Nangong Yu Heartfelt Support",
+        "DisplayName": "Nangong Yu Heartfelt Support"
       }
     ],
     "InternalName": "NangongYu",
@@ -1145,13 +1178,111 @@
     "InGameSkins": [
       {
         "ModFilesName": "VelinaLeisure",
-        "Image": "VelinaShadeofLeisure.png",
+        "Image": "VelinaShadeofLeisure.webp",
         "InternalName": "VelinaShadeofLeisure",
         "DisplayName": "Velina Shade of Leisure"
       }
     ],
     "InternalName": "Velina",
     "DisplayName": "Velina"
+  },
+  {
+    "Keys": [
+      "remielle dan",
+      "remielle",
+      "dan"
+    ],
+    "ReleaseDate": "2026-07-29T00:00:00",
+    "Image": "Remielle.webp",
+    "Rarity": 5,
+    "Element": "Lumiflux",
+    "Class": "Anomaly",
+    "Region": [
+      "CovenantOfDayat"
+    ],
+    "ModFilesName": "Remielle",
+    "InGameSkins": [
+      {
+        "ModFilesName": "RemielleMoonlightWhispers",
+        "Image": "RamielleMoonlightWhispers.webp",
+        "InternalName": "MoonlightWhispers",
+        "DisplayName": "Remielle Moonlight Whispers"
+      },
+      {
+        "ModFilesName": "RemielleSeashadePasSeul",
+        "Image": "RamielleSeashadePasSeul.webp",
+        "InternalName": "SeashadePasSeul",
+        "DisplayName": "Remielle Seashade Pas Seul"
+      }
+    ],
+    "InternalName": "Remielle",
+    "DisplayName": "Remielle"
+  },
+  {
+    "Keys": [
+      "sigrid de l'azur",
+      "sigrid",
+      "de l'azur"
+    ],
+    "ReleaseDate": "2026-08-19T00:00:00",
+    "Image": "Sigrid.webp",
+    "Rarity": 5,
+    "Element": "Ice",
+    "Class": "Attack",
+    "Region": [
+      "APD"
+    ],
+    "ModFilesName": "Sigrid",
+    "InGameSkins": [
+      {
+        "ModFilesName": "SigridMajesticWavechaser",
+        "Image": "SigridMajesticWavechaser.webp",
+        "InternalName": "MajesticWavechaser",
+        "DisplayName": "Sigrid Majestic Wavechaser"
+      }
+    ],
+    "InternalName": "Sigrid",
+    "DisplayName": "Sigrid"
+  },
+  {
+    "Keys": [
+      "claret flint",
+      "claret",
+      "flint"
+    ],
+    "ReleaseDate": "2026-09-09T00:00:00",
+    "Image": "Claret.webp",
+    "Rarity": 5,
+    "Element": "Electric",
+    "Class": "Armorer",
+    "Region": [
+      "Flint"
+    ],
+    "ModFilesName": "Claret",
+    "InGameSkins": [],
+    "InternalName": "Claret",
+    "DisplayName": "Claret"
+  },
+  {
+    "Keys": [
+      "roxy ifrita pryce",
+      "roxy",
+      "ifrita",
+      "pryce",
+      "roxy pryce"
+    ],
+    "ReleaseDate": "2026-09-30T00:00:00",
+    "Image": "Roxy.webp",
+    "Rarity": 5,
+    "Element": "Wind",
+    "Class": "Stun",
+    "Region": [
+      "Flint"
+    ],
+    "ModFilesName": "Roxy",
+    "InGameSkins": [],
+    "InternalName": "Roxy",
+    "DisplayName": "Roxy"
   }
 ]
 
