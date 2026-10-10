@@ -2119,7 +2119,14 @@
       "Mondstadt"
     ],
     "ModFilesName": "Durin",
-    "InGameSkins": [],
+    "InGameSkins": [
+      {
+        "ModFilesName": "DurinDistantHorizon",
+        "Image": "DurinTowardTheDistantHorizon.webp",
+        "InternalName": "Durin Toward the Distant Horizon",
+        "DisplayName": "Toward the Distant Horizon"
+      }
+    ],
     "InternalName": "Durin",
     "DisplayName": "Durin"
   },
